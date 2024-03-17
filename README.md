@@ -5,3 +5,7 @@ Data Dictionary:
 
 
 ![image](https://github.com/NithinShetty06/Terro-s-Real-estate-Agency/assets/163656650/23cb3dcf-ed5d-4d2f-aab7-6038237d8b0b)
+
+
+Objective:
+Your job, as an auditor, is to analyse the magnitude of each variable to which it can affect the price of a house in a particular locality.
